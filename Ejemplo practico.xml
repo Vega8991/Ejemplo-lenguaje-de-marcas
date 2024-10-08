@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<root xmlns:p="http://www.w3.org/TR/alumnos/" xmlns:o="https://www.w3.org/profesores">
+<profesores>
+<p:nombre>Ana Lopez Perez</p:nombre>
+<p:nombre>Luis Juan Perez</p:nombre>
+<p:nombre>Alvaro Gutierrez</p:nombre>
+</profesores>
+
+<alumnos>
+<o:nombre>Francisco Ramirez</o:nombre>
+<o:nombre>Juan Sanchez</o:nombre>
+<o:nombre>Alejandro Garnacho</o:nombre>
+</alumnos>
+
+</root>
+
+
+
+
